@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=tired sloth underground tofu abcdef
+EXAMCODE=735998760
 
 echo ${EXAMCODE}
